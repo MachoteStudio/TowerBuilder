@@ -20,7 +20,7 @@ image: tb-logo.png
 
 #Description of your site
 description: >-
-  Colocar aquí una descripción del sitio.
+  Colocar aquí una descripción del sitio 2.
 
 # URL of your contracts file or API endpoint
 contracts_url: "/assets/data/contracts.csv"
